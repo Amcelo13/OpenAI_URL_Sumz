@@ -3,7 +3,7 @@
 
 The Article Extractor and Summarizer API is a tool that extracts the body of news or articles from a URL and uses GPT to summarize the content. 
 
-<img width="960" alt="Captura de pantalla 2023-04-23 003141" src="https://user-images.githubusercontent.com/109045897/233822549-f7d270db-f060-488c-841c-e9981b6b4450.png">
+<img width="960" alt="Captura de pantalla 2023-04-23 003141" src="https://i.pinimg.com/originals/48/c7/d2/48c7d267067b05229c56a8a62d7800dc.png">
 
 It is designed for text mining purposes and uses a powerful web scraping engine called ScrapeNinja.net with high-quality rotating proxies. 
 
@@ -11,11 +11,11 @@ It is designed for text mining purposes and uses a powerful web scraping engine 
 
 The API is useful for businesses that require large amounts of data to be extracted and summarized quickly and efficiently. 
 
-<img width="960" alt="Captura de pantalla 2023-04-23 003023" src="https://user-images.githubusercontent.com/109045897/233822547-3f7e8b63-1379-4166-a42d-6498ba016355.png">
+<img width="960" alt="Captura de pantalla 2023-04-23 003023" src="https://i.pinimg.com/originals/c7/61/c1/c761c181a28a31e9f691b8e01bb91bf3.png">
 
 The API is easy to use and comes with detailed documentation that provides an in-depth review of its features and implementation details. 
 
-<img width="959" alt="Captura de pantalla 2023-04-23 003044" src="https://user-images.githubusercontent.com/109045897/233822548-0c415487-4ce4-48ab-ba6e-ad86496be883.png">
+<img width="959" alt="Captura de pantalla 2023-04-23 003044" src="https://i.pinimg.com/originals/12/51/a1/1251a140d78a0d4af084ca530c411356.png">
 
 The documentation also includes a video that explores the ChatGPT summary capabilities of the API. 
 
