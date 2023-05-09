@@ -7,7 +7,7 @@ function Hero() {
             <nav className='flex justify-between
             items-center w-full mb-10 pt-3'>
                 <img src="https://i.pinimg.com/originals/19/80/35/1980357581c853767f02a98d9daf14f1.png" alt="sumz_logo" className='w-28 h-12 object-contain' />
-                <button type='button' onClick={() => window.open('https://github.com/Amcelo13/OpenAI_URL_summarizer')}
+                <button type='button' onClick={() => window.open('https://github.com/Amcelo13/OpenAI_URL_Sumz')}
                     className='black_btn'>
                     Github
                 </button>
